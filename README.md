@@ -1,2 +1,2 @@
 # pingvin-api
-This is mz first Go App
+Serves back the sum of 2 given numbers.
